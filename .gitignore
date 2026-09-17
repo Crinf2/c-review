@@ -4,3 +4,6 @@ build/
 *.o
 *.exe
 *.out
+.vs/
+out/
+cmake-build-*/
