@@ -1,9 +1,17 @@
-.idea/
-cmake-build-*/
-build/
-*.o
-*.exe
-*.out
+# 编辑器/IDE缓存
 .vs/
+.idea/
+*.user
+*.suo
+
+# CMake 编译产物
+build/
 out/
 cmake-build-*/
+
+# 二进制文件
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.lib
